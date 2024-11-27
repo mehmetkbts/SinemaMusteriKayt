@@ -99,3 +99,6 @@ Müşteri Silme:
 
 Kullanıcı, bir salon seçer ve o salondaki müşterileri listeler.
 Kullanıcı, bir müşteri ID'si girerek müşteriyi siler
+
+# Lisans
+https://github.com/mehmetkbts
